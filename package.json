@@ -1,0 +1,14 @@
+{
+  "name": "connect-whitelist",
+  "version": "0.0.1",
+  "description": "Only allow request from a given list of IP addresses.",
+  "keywords": ["whitelist","white","list","ip","address","test","connect", "express", "middleware"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/connect-whitelist",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/connect-whitelist.git"
+  },
+  "main": "index",
+  "engines": { "node": "0.8.x" }
+}
